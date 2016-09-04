@@ -1,0 +1,6 @@
+name: PvPPlugin
+main: PvPPlugin\Main
+version: 1
+api: [1.10.0]
+load: POSTWORLD
+author: mike7140
